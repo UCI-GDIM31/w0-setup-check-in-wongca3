@@ -6,17 +6,19 @@ This is the first GDIM31 assignment! This is not a test - just a way to make sur
 ## Introduction
 
 1. Tell me a little bit about yourself and your interest in games! Be sure to include your preferred name and pronouns, and talk a little bit about what games you like to play, why you’re taking the class, any prior experience you have with game development, and what kind of games you hope to build.
-
+My name is Christina and I'm a first year. My pronouns are she/her. I like to play games like League of Legends, Valorant, Overwatch, and Minecraft. I decided to take GDIM31 because do not have any coding experience and want to learn about programming games. I do not have any prior game development experience but I hope to build a fighting game. 
 2. Which of the following best describes your major? Please specify if not GDIM.  
 
     - [ ] Game Design & Interactive Media
     - [ ] Computer Science or related major (CS, CSE, Data Science, Informatics, etc) (please specify)
     - [ ] Art-related major (please specify)
-    - [ ] Undecided
+    - [✓] Undecided
     - [ ] Other (please specify)
 
-3. What are you hoping to get out of this class?
+3. What are you hoping to get out of this class? 
+I hope to walk out of this class with basic knowledge of coding in c#. I want to learn about the entire process of programming games and what is required of programmers in the game development industry. 
 4. What, if anything, are you nervous about for this class?
+I'm nervous about going into this class with no experience despite it not being needed. I hope I am able to understand the course material and that lessons are not too fast for new learners.
 
 ## Prior Experience
 
@@ -25,11 +27,11 @@ The next questions ask about what (if any) prior experience you have. This class
 ### Development
 
 1. Programming (any languages/ frameworks)
-
+0
 2. Game development (any engine)
-
+0
 3. Unity
-
+0
 ### Programming & Game Development Concepts
 
 For the next questions, a programming or game development concept is presented:
@@ -40,15 +42,15 @@ For the next questions, a programming or game development concept is presented:
 **These questions are not graded for accuracy! Answer honestly, don’t Google it.**
 
 1. Game design document
-
+0
 2. Scope management
-
+0
 3. Iteration
-
+0
 4. Object-Oriented programming
-
+0
 5. Model-View-Controller architecture
-
+0
 ## Complete!
 
 You've completed your first homework assignment! Commit this file and push it to GitHub. You should be able to see that it's been submitted properly on the Github Classroom page or on your assignment repository.
